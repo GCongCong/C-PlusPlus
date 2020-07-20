@@ -12,7 +12,7 @@ public:
 		std::cout<<"studing"<<std::endl;
 	}
 private:
-	char name[10];//姓名
+	char name[10];
     bool sex;//性别
     int age;//年龄
 
@@ -122,6 +122,6 @@ int main()
 	return 0;
 
 }
-//std::cout<<"******3*******"<<std::endl;
+//std::cout<<"******3*******"<<std::endl;不能输出 
 CGoods ggood3("g3",3,10);//3. 全局对象
 //std::cout<<"******3*******"<<std::endl;
