@@ -2,6 +2,7 @@
 //两个工厂，一个生产苹果，一个生产香蕉
 # include<iostream>
 # include<string>
+# include<stdio.h> 
 class Fruit//抽象水果类
 {
 public:
