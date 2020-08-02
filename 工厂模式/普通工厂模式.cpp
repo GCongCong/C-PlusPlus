@@ -1,5 +1,6 @@
 //1. 普通工厂模式，一个工厂，多条生产线
-
+# include<iostream>
+# include<string>
 class Fruit//抽象水果类
 {
 public:

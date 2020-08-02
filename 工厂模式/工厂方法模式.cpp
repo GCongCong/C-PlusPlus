@@ -1,5 +1,7 @@
 //2.工厂方法模式，一个工厂生产一种产品，多个工厂
 //两个工厂，一个生产苹果，一个生产香蕉
+# include<iostream>
+# include<string>
 class Fruit//抽象水果类
 {
 public:
