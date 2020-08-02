@@ -61,6 +61,8 @@ public:
 int main()
 {
 	Factory F;//建立工厂
+ 
 	Fruit* pf=F.create(1);//生产苹果
 	Fruit* pf1=F.create(2);//生产香蕉
+	
 }
